@@ -1,0 +1,71 @@
+# VS Code editor settings
+.vscode/
+*.code-workspace
+.vscode/browse.vc.db
+.vscode/ipch/
+
+# Generated ArUco Markers
+# Team members should generate their own markers by running aruco_generator.py
+models/aruco_markers/textures/
+models/aruco_markers/textures/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.venv
+venv/
+ENV/
+env/
+.venv
+
+# ROS build artifacts
+devel/
+install/
+build/
+*.catkin_tools.json
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Gazebo
+*.db
+.gazebo/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*~
+
+# System
+.DS_Store
+Thumbs.db
