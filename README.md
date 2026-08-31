@@ -285,7 +285,7 @@ cv2.imwrite("my_marker.png", img)
 
 ## References
 
-- [OpenCV ArUco Documentation](https://docs.opencv.org/master/d5/dae/tutorial_aruco_detection.html)
+- [OpenCV ArUco Documentation](https://docs.opencv.org/5.0/)
 - [TMR Torneo Mexicano de Robótica](https://femexrobotica.org/tmr2026/)
 
 ---
