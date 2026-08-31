@@ -11,7 +11,7 @@ The toolkit takes care of three things:
 3. Registering the markers of a world in a `tags.yaml` file you edit by hand with
    the real coordinates.
 
-<img src="images/hero.png" width="50%" alt="Hero">
+![Hero](images/hero.png)
 
 ---
 
