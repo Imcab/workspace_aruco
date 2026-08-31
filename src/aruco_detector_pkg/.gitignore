@@ -6,8 +6,7 @@
 
 # Generated ArUco Markers
 # Team members should generate their own markers by running aruco_generator.py
-models/aruco_markers/textures/
-models/aruco_markers/textures/*.png
+models/aruco_markers/
 
 # Python
 __pycache__/
