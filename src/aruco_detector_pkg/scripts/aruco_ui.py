@@ -47,14 +47,14 @@ def ok(text):
     """
     Prints a success line with a green check.
     """
-    print(f"  {GREEN}✔{RESET} {text}")
+    print(f"  {GREEN}[SUCCESS]{RESET} {text}")
 
 
 def fail(text):
     """
     Prints a failure line with a red cross.
     """
-    print(f"  {RED}✘{RESET} {text}")
+    print(f"  {RED}[FAIL]{RESET} {text}")
 
 
 def info(text):
