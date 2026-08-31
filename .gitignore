@@ -1,6 +1,8 @@
 # VS Code editor settings
 .vscode/
 *.code-workspace
+.vscode/browse.vc.db
+.vscode/ipch/
 
 # Generated ArUco Markers
 # Team members should generate their own markers by running aruco_generator.py
